@@ -1,3 +1,5 @@
+// Uses helper functions from CS50 library
+
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>
